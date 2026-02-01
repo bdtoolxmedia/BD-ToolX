@@ -1,0 +1,30 @@
+{
+  "name": "bdtoolx-neural-suite",
+  "version": "2.9.1",
+  "private": true,
+  "homepage": "https://bdtoolxmedia.github.io/BD-ToolX",
+  "description": "BDToolX Neural Suite - Multi-setup social media automation.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.38.0",
+    "axios": "^1.6.0",
+    "lucide-react": "^0.460.0",
+    "qrcode.react": "^4.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.0",
+    "recharts": "^2.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  }
+}
